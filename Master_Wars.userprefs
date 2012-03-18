@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Tiles\Buildings\ChangeColour_Buildings.cs">
+    <Files>
+      <File FileName="Assets\Resources\Boards\RoadCreationScript.cs" Line="55" Column="3" />
+      <File FileName="Assets\Resources\Unity Growl\UnityGrowl.cs" Line="16" Column="49" />
+      <File FileName="Assets\Resources\Other\Scripts\Extensions.cs" Line="10" Column="1" />
+      <File FileName="Assets\Resources\Boards\Editing\Board_Editing_Script.cs" Line="618" Column="2" />
+      <File FileName="Assets\Resources\Boards\Board_Script.cs" Line="7" Column="2" />
+      <File FileName="Assets\Resources\Tiles\Buildings\ChangeColour_Buildings.cs" Line="9" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
